@@ -3,6 +3,5 @@
 
 | Difficulty | Name              | Skills               | Completion |
 |------------|-------------------|----------------------|------------|
-| Easy       | Level 01 - XSS    | XSS, Recon           | ✅         |
-| Medium     | Level 02 - SQLi   | SQL Injection, Logic | ⏳         |
-| Hard       | Level 03 - SSRF   | SSRF, Enumeration    | ❌         |
+| Trivial       | A little something to get you started    | Web           | 1 / 1         |
+| Easy     | Micro-CMS v1   | Web | 4 / 4         |
