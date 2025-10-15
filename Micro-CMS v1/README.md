@@ -6,4 +6,7 @@
 ## [flag1](https://github.com/Chris-Christian/Hacker101-CTF-writeups/tree/main/Micro-CMS%20v1/flag1)
 - SQL injection
 
-## flag2
+## [flag2](https://github.com/Chris-Christian/Hacker101-CTF-writeups/tree/main/Micro-CMS%20v1/flag2)
+- XSS
+
+## flag3
