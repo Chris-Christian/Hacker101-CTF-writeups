@@ -9,4 +9,5 @@
 ## [flag2](https://github.com/Chris-Christian/Hacker101-CTF-writeups/tree/main/Micro-CMS%20v1/flag2)
 - XSS
 
-## flag3
+## [flag3](https://github.com/Chris-Christian/Hacker101-CTF-writeups/tree/main/Micro-CMS%20v1/flag3)
+- Inspect the elements after injecting the payload.
