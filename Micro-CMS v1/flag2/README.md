@@ -1,6 +1,6 @@
 # Micro-CMS v1 - flag2
 
-## Soluiton steps
+## Solution steps
 - Click the URL that opens the **Testing** page:
   `https://xxxxxx.ctf.hacker101.com/page/1`
 - Click **Edit this page** and add JavaScript to the body, e.g.:
