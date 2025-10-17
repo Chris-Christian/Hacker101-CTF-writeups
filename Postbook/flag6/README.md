@@ -1,7 +1,7 @@
 # Postbook - flag6
 
 ## Solution steps
-- Hover over the `delete` button which let's you delete a post.
+- Hover over the `delete` element which let's you delete a post.
 - Copy it's link address: `https://xxxxxx.ctf.hacker101.com/index.php?page=delete.php&id=c81e728d9d4c2f636f067f89cc14862c`
 - Notice it contains an `id` parameter which looks like a hash.
 - Copy the id.
