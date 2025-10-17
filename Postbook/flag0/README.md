@@ -7,3 +7,4 @@
   username: user
   password: password
   ```
+- Retrieve the flag.
