@@ -4,7 +4,7 @@
 - Hover over the `delete` element which let's you delete a post.
 - Right click and copy it's link address: `https://xxxxxx.ctf.hacker101.com/index.php?page=delete.php&id=c81e728d9d4c2f636f067f89cc14862c`
 - Notice it contains an `id` parameter which looks like a hash.
-- Copy the id.
+- Copy the id's value.
 - Open [crackstation.net](https://crackstation.net/) in your browser, paste the hash and crack it.
 - Notice it's a `md5` hash and our result is `2`.
 - Open [cyberchef](https://gchq.github.io/CyberChef/#recipe=MD5()) in your browser, search for `md5` then drag and drop it in the recipe.
