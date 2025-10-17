@@ -7,7 +7,7 @@
 - Go to [crackstation.net](https://crackstation.net/) to crack the hash.
 - Paste the hash and crack it.
 - Notice that the result is `2`.
-- Go to [cyberchef](https://gchq.github.io/CyberChef/) search for `md5` and drag and drop it in the recipe.
+- Go to [cyberchef](https://gchq.github.io/CyberChef/), search for `md5` and drag and drop it in the recipe.
 - Write `1` in the input and copy the output.
 - Paste the hash into the value of the cookie named `id` using developer tools.
 - Refresh the page and notice you have successfully logged in as `admin`.
