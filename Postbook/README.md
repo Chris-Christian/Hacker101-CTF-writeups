@@ -1,7 +1,7 @@
 # Postbook - Hints
 
 ## flag0
-- __user__ must login with **password**
+- user must login with **password**
 
 ## flag1
 - IDOR
