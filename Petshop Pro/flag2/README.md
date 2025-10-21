@@ -2,8 +2,8 @@
 
 ## Solution steps
 - After logging in using the method described in flag1's solution click on `edit` option beside `add to cart`.
-- Inject a XSS payload in the `name`:
-  `<img src=x onerror=alert(1)`
+- Inject an XSS payload into the `name` field, for example:
+  `<img src=x onerror="alert(1)">`
 - Save the changes and add that item to cart.
 - Open the cart and retrieve the flag.
 
